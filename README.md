@@ -1,2 +1,2 @@
 # Caculator-via-bookmark
-Ez
+Very ez just add to bookmark
